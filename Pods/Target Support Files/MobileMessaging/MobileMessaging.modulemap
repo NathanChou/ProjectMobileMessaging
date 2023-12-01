@@ -1,6 +1,0 @@
-framework module MobileMessaging {
-  umbrella header "MobileMessaging-umbrella.h"
-
-  export *
-  module * { export * }
-}
