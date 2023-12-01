@@ -2,15 +2,15 @@ PODS:
   - CocoaLumberjack/Core (3.7.4)
   - CocoaLumberjack/Swift (3.7.4):
     - CocoaLumberjack/Core
-  - MobileMessaging (12.1.1):
-    - MobileMessaging/CocoaLumberjack (= 12.1.1)
-  - MobileMessaging/CocoaLumberjack (12.1.1):
+  - MobileMessaging (12.2.3):
+    - MobileMessaging/CocoaLumberjack (= 12.2.3)
+  - MobileMessaging/CocoaLumberjack (12.2.3):
     - CocoaLumberjack/Swift (= 3.7.4)
     - MobileMessaging/Core
-  - MobileMessaging/Core (12.1.1)
+  - MobileMessaging/Core (12.2.3)
 
 DEPENDENCIES:
-  - MobileMessaging (= 12.1.1)
+  - MobileMessaging (= 12.2.3)
 
 SPEC REPOS:
   trunk:
@@ -19,8 +19,8 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
-  MobileMessaging: 69bc47468d80f2f98f4c39cd0c918e19b4f80f11
+  MobileMessaging: 378076cf9ead539bd0f08cfd8459146ad664e564
 
-PODFILE CHECKSUM: dea14ddc2ef4b6eb32f3a36ef8ad06ab07fac766
+PODFILE CHECKSUM: 1a87237b67015f88b42562ecea8d3177643457ac
 
-COCOAPODS: 1.11.0
+COCOAPODS: 1.14.2
