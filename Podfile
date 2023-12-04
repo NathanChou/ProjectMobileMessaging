@@ -7,6 +7,6 @@ target 'ProjectMobileMessaging' do
 
   # Pods for ProjectMobileMessaging
   
-  pod 'MobileMessaging', '12.1.1'
+  pod 'MobileMessaging', '12.2.3'
 
 end
